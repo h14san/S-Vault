@@ -1,2 +1,4 @@
 # S-Vault
-A way to securely store, generate, and synchronize your credentials
+A command-line tool that generates and stores passwords with optimal security, authentication, encryption and hashing.
+
+⌛ ...In progress
