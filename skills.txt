@@ -1,0 +1,20 @@
+PYTHON SKILLS PRACTICED:
+
+- Modular programming (multiple files, imports)
+- Functions and code organization
+- File handling (read/write JSON)
+- Error handling (try/except)
+- Working with libraries (bcrypt, cryptography)
+- CLI interaction (input, getpass)
+- Data structures (dictionaries)
+
+
+CYBERSECURITY SKILLS PRACTICED:
+
+- Authentication (login system)
+- Password hashing (bcrypt)
+- Encryption & decryption (Fernet)
+- Key derivation (PBKDF2)
+- Secure password generation (secrets)
+- Secure storage of sensitive data
+- Basic understanding of data protection principles
