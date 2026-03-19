@@ -1,0 +1,4 @@
+1. 2FA
+2. Time limit per session
+3. Match password with usernames/emails
+4. Different passwords for same app

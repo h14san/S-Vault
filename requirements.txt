@@ -1,0 +1,25 @@
+S-VAULT FLOW:
+
+1. User chooses:
+   - Login
+   - Create Account
+
+2. Create Account:
+   - Master password is hashed and stored
+   - All previous data is reset (passwords deleted)
+
+3. Login:
+   - User enters master password
+   - Password is verified (authentication)
+
+4. After login:
+   - Save new password (encrypted)
+   - Generate strong password
+   - View saved apps
+   - Search and decrypt password
+
+NOTES:
+- Creating a new account deletes all existing stored passwords.
+- Passwords are encrypted before storage.
+- Master password is never stored, only hashed.
+- One app = one password (saving again for same app replaces old password).
